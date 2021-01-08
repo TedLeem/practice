@@ -1,0 +1,4 @@
+﻿  soccerteam.cpp
+C:\Users\user\Desktop\중앙대\알고리즘\C++\DFSandBFS\soccerteam.cpp(39,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\user\Desktop\중앙대\알고리즘\C++\DFSandBFS\soccerteam.cpp(41,22): warning C4018:  '<': signed/unsigned mismatch
+  DFSandBFS.vcxproj -> C:\Users\user\Desktop\중앙대\알고리즘\C++\DFSandBFS\Debug\DFSandBFS.exe
